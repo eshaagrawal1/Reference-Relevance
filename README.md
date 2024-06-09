@@ -1,0 +1,2 @@
+**Overview :**
+The research paper analytical tool is a tool that helps researchers to analyze their research papers. This tool uses Natural Language Processing (NLP) algorithms to extract relevant information from the text of research papers. This tool can be used to identify key concepts, topics, and themes within a research paper, as well as to highlight important findings, methodologies, and references. It can also be used to compare and contrast multiple research papers on the same topic, and to identify gaps in the existing literature.
